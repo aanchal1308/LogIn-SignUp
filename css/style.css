@@ -1,0 +1,98 @@
+
+
+h1,h2{
+   color:#2980b9;
+   font-family:arial;
+	
+}
+
+
+input{
+    width: 430px;
+	margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#main-wrapper{
+	background-color: white;
+	border: none;
+	width: 500px;
+	margin: 0 auto;
+	opacity: 0.9;
+	padding: 10px;
+}
+.inner_container{
+	width:450px;
+	margin:0 auto;
+	
+}
+.login_button {
+    background-color: #4CAF50;
+    color: white;
+	margin-top:10px;
+    padding:10px;
+    width: 100%;
+	font-size:18px;
+	border:none;
+}
+button:hover {
+    opacity: 0.8;
+}
+.register_btn{
+	background-color: #3498db;
+    color: white;
+	margin-top:10px;
+	margin-bottom:15px;
+	padding:10px;
+    width: 100%;
+	font-size:18px;
+	
+	border: none;
+	
+}
+.back_btn{
+	margin-top:10px;
+	color: white;
+	margin-bottom:15px;
+    padding: 10px;
+    background-color: #2ecc71;
+	border:none;
+}
+.logout_button{
+	background-color: #c0392b;
+    color: white;
+	margin-top:10px;
+    padding:10px;
+    width: 50%;
+	font-size:18px;
+	border:none;
+	
+}
+
+.sign_up_btn {
+	background-color: #3498db;
+    color: white;
+	 padding:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+    width: 100%;
+	border:none;
+	font-size:18px;
+	
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.avatar {
+    width: 30%;
+    border-radius: 50%;
+}
+
+.container {
+    margin: 16px;
+	width:100%;
+}
